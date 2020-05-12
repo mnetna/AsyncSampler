@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="AsyncSampler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/AsyncSampler_jar</output-path>
+    <root id="archive" name="AsyncSampler.jar">
+      <element id="module-output" name="AsyncSampler" />
+      <element id="module-test-output" name="AsyncSampler" />
+    </root>
+  </artifact>
+</component>
